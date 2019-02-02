@@ -1,0 +1,3 @@
+[submodule "src/SerializeData"]
+	path = src/SerializeData
+	url = https://github.com/tinel-c/SerializeData.git
